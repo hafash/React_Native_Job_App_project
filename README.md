@@ -1,1 +1,1 @@
-# React_Native_Job_App_project
+# react_native_jobs_project
